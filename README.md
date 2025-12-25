@@ -40,7 +40,9 @@ data/
 | Week      | Week of year (1-52)                | 34                   |
 
 **Available Assets:**
-- GOLD
+| Asset | Timeframes |
+|-------|------------|
+| GOLD  | H4, D1, W1, MN |
 
 ### Forex
 *Coming soon*
@@ -56,11 +58,29 @@ data/
 `{SYMBOL}-{TIMEFRAME}.csv`
 
 **Timeframes:**
+- `MN` - Monthly
+- `W1` - Weekly
 - `D1` - Daily
 - `H4` - 4 Hours
 - `H1` - 1 Hour
 - `M15` - 15 Minutes
 - `M5` - 5 Minutes
+
+## Download
+
+**Raw URL format:**
+```
+https://raw.githubusercontent.com/tohaitrieu/market-history/master/data/{category}/{symbol}/{symbol}-{timeframe}.csv
+```
+
+**Example:**
+```bash
+# Download GOLD daily data
+curl -O https://raw.githubusercontent.com/tohaitrieu/market-history/master/data/commodities/GOLD/GOLD-D1.csv
+
+# With authentication (higher rate limit)
+curl -H "Authorization: token YOUR_TOKEN" -O https://raw.githubusercontent.com/tohaitrieu/market-history/master/data/commodities/GOLD/GOLD-D1.csv
+```
 
 ## License
 
