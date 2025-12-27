@@ -1,297 +1,297 @@
 [
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-06-01 04:00","Open":"266.50","High":"279.55","Low":"264.25","Close":"271.10","Year":"2001","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-07-01 04:00","Open":"270.60","High":"272.50","Low":"264.00","Close":"267.10","Year":"2001","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-08-01 04:00","Open":"266.60","High":"281.70","Low":"265.75","Close":"274.70","Year":"2001","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-09-01 04:00","Open":"274.45","High":"296.10","Low":"270.45","Close":"293.45","Year":"2001","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-10-01 04:00","Open":"292.00","High":"294.62","Low":"273.95","Close":"279.75","Year":"2001","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-11-01 04:00","Open":"279.25","High":"282.50","Low":"271.70","Close":"274.65","Year":"2001","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-12-01 04:00","Open":"274.15","High":"281.75","Low":"270.95","Close":"279.20","Year":"2001","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-01-01 04:00","Open":"278.20","High":"290.00","Low":"276.55","Close":"282.95","Year":"2002","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-02-01 04:00","Open":"282.70","High":"309.30","Low":"281.45","Close":"296.80","Year":"2002","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-03-01 04:00","Open":"296.30","High":"305.27","Low":"287.40","Close":"302.75","Year":"2002","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-04-01 04:00","Open":"301.75","High":"313.00","Low":"296.75","Close":"308.70","Year":"2002","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-05-01 04:00","Open":"308.20","High":"330.25","Low":"305.95","Close":"326.80","Year":"2002","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-06-01 04:00","Open":"326.30","High":"332.15","Low":"309.90","Close":"314.70","Year":"2002","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-07-01 04:00","Open":"313.70","High":"326.40","Low":"300.50","Close":"303.80","Year":"2002","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-08-01 04:00","Open":"303.30","High":"318.50","Low":"298.45","Close":"313.00","Year":"2002","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-09-01 04:00","Open":"312.50","High":"328.30","Low":"310.90","Close":"324.17","Year":"2002","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-10-01 04:00","Open":"323.50","High":"324.72","Low":"308.50","Close":"317.77","Year":"2002","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-11-01 04:00","Open":"317.75","High":"325.40","Low":"315.62","Close":"317.90","Year":"2002","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-12-01 04:00","Open":"318.47","High":"354.72","Low":"315.70","Close":"347.80","Year":"2002","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-01-01 04:00","Open":"348.05","High":"374.22","Low":"342.11","Close":"368.15","Year":"2003","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-02-01 04:00","Open":"368.15","High":"388.75","Low":"341.00","Close":"349.95","Year":"2003","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-03-01 04:00","Open":"349.50","High":"358.60","Low":"325.49","Close":"336.55","Year":"2003","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-04-01 04:00","Open":"337.11","High":"340.35","Low":"318.88","Close":"338.55","Year":"2003","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-05-01 04:00","Open":"339.45","High":"375.02","Low":"337.70","Close":"364.85","Year":"2003","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-06-01 04:00","Open":"363.25","High":"370.30","Low":"342.40","Close":"345.75","Year":"2003","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-07-01 04:00","Open":"345.85","High":"368.00","Low":"340.10","Close":"354.25","Year":"2003","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-08-01 04:00","Open":"355.32","High":"378.00","Low":"344.95","Close":"375.55","Year":"2003","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-09-01 04:00","Open":"375.00","High":"394.00","Low":"369.55","Close":"385.35","Year":"2003","Quarter":"3","Month":"9","Week":"36"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-10-01 04:00","Open":"385.50","High":"392.70","Low":"366.00","Close":"384.50","Year":"2003","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-11-01 04:00","Open":"384.60","High":"401.10","Low":"375.65","Close":"398.05","Year":"2003","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-12-01 04:00","Open":"397.50","High":"417.90","Low":"396.55","Close":"415.75","Year":"2003","Quarter":"4","Month":"12","Week":"49"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-01-01 04:00","Open":"415.35","High":"430.70","Low":"396.30","Close":"402.40","Year":"2004","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-02-01 04:00","Open":"402.30","High":"417.50","Low":"390.60","Close":"396.24","Year":"2004","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-03-01 04:00","Open":"396.25","High":"427.60","Low":"387.90","Close":"427.18","Year":"2004","Quarter":"1","Month":"3","Week":"10"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-04-01 04:00","Open":"427.21","High":"432.60","Low":"377.38","Close":"387.59","Year":"2004","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-05-01 04:00","Open":"387.59","High":"396.98","Low":"371.45","Close":"395.38","Year":"2004","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-06-01 04:00","Open":"395.41","High":"405.35","Low":"381.35","Close":"392.10","Year":"2004","Quarter":"2","Month":"6","Week":"23"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-07-01 04:00","Open":"392.80","High":"409.47","Low":"385.18","Close":"391.33","Year":"2004","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-08-01 04:00","Open":"391.27","High":"414.44","Low":"388.73","Close":"410.21","Year":"2004","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-09-01 04:00","Open":"410.20","High":"419.36","Low":"394.87","Close":"418.76","Year":"2004","Quarter":"3","Month":"9","Week":"36"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-10-01 04:00","Open":"418.75","High":"430.55","Low":"409.55","Close":"428.60","Year":"2004","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-11-01 04:00","Open":"429.10","High":"455.55","Low":"417.05","Close":"450.85","Year":"2004","Quarter":"4","Month":"11","Week":"45"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-12-01 04:00","Open":"451.10","High":"457.05","Low":"431.51","Close":"438.32","Year":"2004","Quarter":"4","Month":"12","Week":"49"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-01-01 04:00","Open":"438.45","High":"461.35","Low":"416.57","Close":"422.60","Year":"2005","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-02-01 04:00","Open":"422.58","High":"438.43","Low":"410.25","Close":"435.61","Year":"2005","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-03-01 04:00","Open":"435.62","High":"447.50","Low":"423.28","Close":"428.73","Year":"2005","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-04-01 04:00","Open":"428.71","High":"438.45","Low":"421.83","Close":"434.95","Year":"2005","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-05-01 04:00","Open":"434.96","High":"435.87","Low":"414.15","Close":"417.10","Year":"2005","Quarter":"2","Month":"5","Week":"17"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-06-01 04:00","Open":"416.31","High":"444.00","Low":"414.38","Close":"435.55","Year":"2005","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-07-01 04:00","Open":"435.50","High":"437.00","Low":"417.85","Close":"429.60","Year":"2005","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-08-01 04:00","Open":"429.80","High":"450.04","Low":"428.80","Close":"435.05","Year":"2005","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-09-01 04:00","Open":"435.10","High":"475.20","Low":"434.60","Close":"468.90","Year":"2005","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-10-01 04:00","Open":"468.75","High":"480.11","Low":"459.75","Close":"465.65","Year":"2005","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-11-01 04:00","Open":"465.90","High":"502.45","Low":"454.80","Close":"492.85","Year":"2005","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-12-01 04:00","Open":"492.95","High":"541.00","Low":"489.45","Close":"516.97","Year":"2005","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-01-01 04:00","Open":"516.98","High":"572.70","Low":"516.98","Close":"568.20","Year":"2006","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-02-01 04:00","Open":"570.60","High":"575.10","Low":"534.65","Close":"561.40","Year":"2006","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-03-01 04:00","Open":"561.35","High":"589.35","Low":"533.50","Close":"582.28","Year":"2006","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-04-01 04:00","Open":"582.50","High":"655.80","Low":"581.65","Close":"654.53","Year":"2006","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-05-01 04:00","Open":"654.35","High":"730.25","Low":"635.50","Close":"644.94","Year":"2006","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-06-01 04:00","Open":"644.85","High":"645.53","Low":"542.54","Close":"615.28","Year":"2006","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-07-01 04:00","Open":"613.00","High":"674.82","Low":"601.90","Close":"636.14","Year":"2006","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-08-01 04:00","Open":"636.25","High":"655.92","Low":"607.11","Close":"626.89","Year":"2006","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-09-01 04:00","Open":"626.54","High":"640.24","Low":"570.45","Close":"598.40","Year":"2006","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-10-01 04:00","Open":"598.39","High":"610.52","Low":"559.07","Close":"606.28","Year":"2006","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-11-01 04:00","Open":"606.36","High":"648.65","Low":"605.25","Close":"647.60","Year":"2006","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-12-01 04:00","Open":"647.90","High":"649.75","Low":"612.25","Close":"636.35","Year":"2006","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-01-01 04:00","Open":"637.78","High":"654.40","Low":"601.75","Close":"652.45","Year":"2007","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-02-01 04:00","Open":"652.75","High":"688.80","Low":"642.80","Close":"668.91","Year":"2007","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-03-01 04:00","Open":"668.96","High":"677.15","Low":"632.30","Close":"663.30","Year":"2007","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-04-01 04:00","Open":"665.25","High":"693.55","Low":"656.05","Close":"678.20","Year":"2007","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-05-01 04:00","Open":"678.15","High":"690.70","Low":"651.90","Close":"660.40","Year":"2007","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-06-01 04:00","Open":"660.43","High":"673.80","Low":"639.22","Close":"649.20","Year":"2007","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-07-01 04:00","Open":"649.25","High":"687.80","Low":"645.03","Close":"664.00","Year":"2007","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-08-01 04:00","Open":"664.05","High":"676.80","Low":"641.75","Close":"672.95","Year":"2007","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-09-01 04:00","Open":"672.70","High":"745.85","Low":"671.35","Close":"743.20","Year":"2007","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-10-01 04:00","Open":"743.65","High":"797.30","Low":"720.70","Close":"795.75","Year":"2007","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-11-01 04:00","Open":"795.80","High":"845.65","Low":"772.70","Close":"783.38","Year":"2007","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-12-01 04:00","Open":"784.05","High":"843.08","Low":"776.95","Close":"832.89","Year":"2007","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-01-01 04:00","Open":"833.50","High":"936.85","Low":"833.50","Close":"926.03","Year":"2008","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-02-01 04:00","Open":"925.80","High":"976.18","Low":"884.20","Close":"973.60","Year":"2008","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-03-01 04:00","Open":"973.80","High":"1032.60","Low":"904.48","Close":"916.10","Year":"2008","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-04-01 04:00","Open":"916.20","High":"952.80","Low":"862.38","Close":"877.43","Year":"2008","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-05-01 04:00","Open":"877.10","High":"935.25","Low":"845.05","Close":"886.40","Year":"2008","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-06-01 04:00","Open":"886.50","High":"935.30","Low":"857.35","Close":"925.35","Year":"2008","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-07-01 04:00","Open":"925.30","High":"988.28","Low":"893.80","Close":"913.70","Year":"2008","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-08-01 04:00","Open":"913.80","High":"917.10","Low":"772.80","Close":"830.85","Year":"2008","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-09-01 04:00","Open":"834.78","High":"926.70","Low":"736.18","Close":"871.50","Year":"2008","Quarter":"3","Month":"9","Week":"36"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-10-01 04:00","Open":"871.43","High":"930.48","Low":"681.43","Close":"724.20","Year":"2008","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-11-01 04:00","Open":"726.78","High":"830.80","Low":"699.70","Close":"817.93","Year":"2008","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-12-01 04:00","Open":"817.90","High":"890.10","Low":"741.13","Close":"874.38","Year":"2008","Quarter":"4","Month":"12","Week":"49"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-01-01 04:00","Open":"873.13","High":"929.48","Low":"801.53","Close":"927.00","Year":"2009","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-02-01 04:00","Open":"927.35","High":"1005.98","Low":"889.00","Close":"941.72","Year":"2009","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-03-01 04:00","Open":"939.90","High":"966.70","Low":"883.78","Close":"918.90","Year":"2009","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-04-01 04:00","Open":"918.93","High":"932.92","Low":"864.50","Close":"888.10","Year":"2009","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-05-01 04:00","Open":"888.12","High":"980.22","Low":"880.15","Close":"976.25","Year":"2009","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-06-01 04:00","Open":"979.03","High":"989.97","Low":"912.83","Close":"926.28","Year":"2009","Quarter":"2","Month":"6","Week":"23"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-07-01 04:00","Open":"926.30","High":"958.80","Low":"904.93","Close":"953.50","Year":"2009","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-08-01 04:00","Open":"954.20","High":"971.60","Low":"930.33","Close":"951.10","Year":"2009","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-09-01 04:00","Open":"951.08","High":"1023.90","Low":"946.35","Close":"1007.38","Year":"2009","Quarter":"3","Month":"9","Week":"36"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-10-01 04:00","Open":"1007.43","High":"1070.80","Low":"986.58","Close":"1044.98","Year":"2009","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-11-01 04:00","Open":"1043.90","High":"1195.22","Low":"1041.18","Close":"1179.15","Year":"2009","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-12-01 04:00","Open":"1179.15","High":"1226.37","Low":"1074.50","Close":"1098.15","Year":"2009","Quarter":"4","Month":"12","Week":"49"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-01-01 04:00","Open":"1096.85","High":"1161.90","Low":"1074.15","Close":"1080.59","Year":"2010","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-02-01 04:00","Open":"1080.65","High":"1130.63","Low":"1044.35","Close":"1117.30","Year":"2010","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-03-01 04:00","Open":"1117.50","High":"1144.85","Low":"1084.95","Close":"1112.83","Year":"2010","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-04-01 04:00","Open":"1112.89","High":"1181.60","Low":"1111.47","Close":"1178.55","Year":"2010","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-05-01 04:00","Open":"1177.95","High":"1249.25","Low":"1157.15","Close":"1215.90","Year":"2010","Quarter":"2","Month":"5","Week":"17"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-06-01 04:00","Open":"1215.93","High":"1265.03","Low":"1196.32","Close":"1242.05","Year":"2010","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-07-01 04:00","Open":"1242.00","High":"1243.82","Low":"1156.75","Close":"1180.75","Year":"2010","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-08-01 04:00","Open":"1181.70","High":"1249.63","Low":"1174.30","Close":"1247.20","Year":"2010","Quarter":"3","Month":"8","Week":"30"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-09-01 04:00","Open":"1248.85","High":"1315.83","Low":"1236.53","Close":"1308.05","Year":"2010","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-10-01 04:00","Open":"1306.97","High":"1387.07","Low":"1305.65","Close":"1358.90","Year":"2010","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-11-01 04:00","Open":"1359.03","High":"1424.25","Low":"1325.48","Close":"1386.00","Year":"2010","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-12-01 04:00","Open":"1386.43","High":"1431.03","Low":"1361.25","Close":"1418.22","Year":"2010","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-01-01 04:00","Open":"1418.75","High":"1423.70","Low":"1308.07","Close":"1332.65","Year":"2011","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-02-01 04:00","Open":"1332.93","High":"1417.99","Low":"1324.95","Close":"1410.73","Year":"2011","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-03-01 04:00","Open":"1411.28","High":"1447.61","Low":"1380.71","Close":"1431.90","Year":"2011","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-04-01 04:00","Open":"1432.73","High":"1569.25","Low":"1412.52","Close":"1562.90","Year":"2011","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-05-01 04:00","Open":"1567.03","High":"1576.48","Low":"1462.35","Close":"1535.50","Year":"2011","Quarter":"2","Month":"5","Week":"17"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-06-01 04:00","Open":"1535.20","High":"1558.07","Low":"1490.65","Close":"1499.61","Year":"2011","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-07-01 04:00","Open":"1500.57","High":"1632.47","Low":"1478.04","Close":"1626.65","Year":"2011","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-08-01 04:00","Open":"1606.78","High":"1911.89","Low":"1606.78","Close":"1825.75","Year":"2011","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-09-01 04:00","Open":"1824.40","High":"1920.80","Low":"1532.64","Close":"1623.50","Year":"2011","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-10-01 04:00","Open":"1619.95","High":"1752.35","Low":"1595.65","Close":"1714.55","Year":"2011","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-11-01 04:00","Open":"1713.96","High":"1802.54","Low":"1666.66","Close":"1745.90","Year":"2011","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-12-01 04:00","Open":"1747.93","High":"1762.97","Low":"1522.35","Close":"1564.16","Year":"2011","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-01-01 04:00","Open":"1565.15","High":"1747.34","Low":"1565.15","Close":"1737.25","Year":"2012","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-02-01 04:00","Open":"1736.40","High":"1790.42","Low":"1686.70","Close":"1696.45","Year":"2012","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-03-01 04:00","Open":"1695.35","High":"1725.69","Low":"1627.78","Close":"1667.85","Year":"2012","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-04-01 04:00","Open":"1669.71","High":"1683.43","Low":"1611.80","Close":"1663.60","Year":"2012","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-05-01 04:00","Open":"1664.72","High":"1671.45","Low":"1526.87","Close":"1559.73","Year":"2012","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-06-01 04:00","Open":"1559.73","High":"1640.73","Low":"1544.88","Close":"1597.14","Year":"2012","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-07-01 04:00","Open":"1598.61","High":"1629.36","Low":"1554.75","Close":"1614.16","Year":"2012","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-08-01 04:00","Open":"1614.19","High":"1692.76","Low":"1583.95","Close":"1691.31","Year":"2012","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-09-01 04:00","Open":"1690.65","High":"1787.40","Low":"1685.30","Close":"1771.90","Year":"2012","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-10-01 04:00","Open":"1770.81","High":"1795.73","Low":"1698.38","Close":"1719.80","Year":"2012","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-11-01 04:00","Open":"1719.40","High":"1754.10","Low":"1672.46","Close":"1714.48","Year":"2012","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-12-01 04:00","Open":"1713.16","High":"1723.23","Low":"1635.39","Close":"1660.78","Year":"2012","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-01-01 04:00","Open":"1674.78","High":"1696.95","Low":"1625.53","Close":"1663.46","Year":"2013","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-02-01 04:00","Open":"1663.96","High":"1684.76","Low":"1554.85","Close":"1579.30","Year":"2013","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-03-01 04:00","Open":"1579.13","High":"1616.77","Low":"1561.30","Close":"1598.70","Year":"2013","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-04-01 04:00","Open":"1597.14","High":"1603.69","Low":"1321.34","Close":"1476.13","Year":"2013","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-05-01 04:00","Open":"1475.49","High":"1487.81","Low":"1337.75","Close":"1387.33","Year":"2013","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-06-01 04:00","Open":"1388.99","High":"1423.67","Low":"1180.11","Close":"1234.10","Year":"2013","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-07-01 04:00","Open":"1233.23","High":"1347.40","Low":"1208.03","Close":"1324.52","Year":"2013","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-08-01 04:00","Open":"1324.54","High":"1433.51","Low":"1272.60","Close":"1394.58","Year":"2013","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-09-01 04:00","Open":"1392.90","High":"1416.14","Low":"1291.64","Close":"1328.53","Year":"2013","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-10-01 04:00","Open":"1328.53","High":"1361.60","Low":"1251.58","Close":"1322.21","Year":"2013","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-11-01 04:00","Open":"1322.57","High":"1327.26","Low":"1227.74","Close":"1251.33","Year":"2013","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-12-01 04:00","Open":"1250.62","High":"1267.76","Low":"1182.16","Close":"1206.29","Year":"2013","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-01-01 04:00","Open":"1225.05","High":"1278.83","Low":"1213.58","Close":"1243.88","Year":"2014","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-02-01 04:00","Open":"1242.35","High":"1345.25","Low":"1240.67","Close":"1325.78","Year":"2014","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-03-01 04:00","Open":"1332.05","High":"1392.07","Low":"1282.39","Close":"1283.96","Year":"2014","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-04-01 04:00","Open":"1283.96","High":"1330.91","Low":"1268.23","Close":"1291.06","Year":"2014","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-05-01 04:00","Open":"1291.06","High":"1315.42","Low":"1242.12","Close":"1249.21","Year":"2014","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-06-01 04:00","Open":"1249.90","High":"1329.34","Low":"1240.45","Close":"1327.06","Year":"2014","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-07-01 04:00","Open":"1327.03","High":"1345.02","Low":"1280.36","Close":"1282.31","Year":"2014","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-08-01 04:00","Open":"1282.26","High":"1322.54","Low":"1272.83","Close":"1286.66","Year":"2014","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-09-01 04:00","Open":"1286.12","High":"1289.73","Low":"1204.36","Close":"1207.92","Year":"2014","Quarter":"3","Month":"9","Week":"36"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-10-01 04:00","Open":"1207.75","High":"1255.07","Low":"1161.00","Close":"1172.46","Year":"2014","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-11-01 04:00","Open":"1170.65","High":"1207.65","Low":"1131.65","Close":"1168.41","Year":"2014","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-12-01 04:00","Open":"1159.16","High":"1238.07","Low":"1142.63","Close":"1187.23","Year":"2014","Quarter":"4","Month":"12","Week":"49"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-01-01 04:00","Open":"1186.07","High":"1307.47","Low":"1167.25","Close":"1283.41","Year":"2015","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-02-01 04:00","Open":"1281.34","High":"1285.60","Low":"1190.13","Close":"1213.01","Year":"2015","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-03-01 04:00","Open":"1212.89","High":"1223.09","Low":"1142.65","Close":"1183.22","Year":"2015","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-04-01 04:00","Open":"1182.22","High":"1224.09","Low":"1175.09","Close":"1184.05","Year":"2015","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-05-01 04:00","Open":"1183.46","High":"1232.22","Low":"1170.16","Close":"1190.05","Year":"2015","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-06-01 04:00","Open":"1188.29","High":"1205.63","Low":"1162.69","Close":"1171.98","Year":"2015","Quarter":"2","Month":"6","Week":"23"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-07-01 04:00","Open":"1172.33","High":"1175.01","Low":"1071.19","Close":"1095.50","Year":"2015","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-08-01 04:00","Open":"1095.56","High":"1169.97","Low":"1080.90","Close":"1134.74","Year":"2015","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-09-01 04:00","Open":"1134.10","High":"1156.61","Low":"1098.67","Close":"1114.56","Year":"2015","Quarter":"3","Month":"9","Week":"36"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-10-01 04:00","Open":"1114.92","High":"1191.47","Low":"1104.54","Close":"1141.78","Year":"2015","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-11-01 04:00","Open":"1140.84","High":"1142.87","Low":"1052.59","Close":"1064.50","Year":"2015","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-12-01 04:00","Open":"1065.01","High":"1088.76","Low":"1046.29","Close":"1061.89","Year":"2015","Quarter":"4","Month":"12","Week":"49"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-01-01 04:00","Open":"1062.30","High":"1127.95","Low":"1061.68","Close":"1117.99","Year":"2016","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-02-01 04:00","Open":"1117.38","High":"1263.28","Low":"1115.37","Close":"1238.33","Year":"2016","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-03-01 04:00","Open":"1237.98","High":"1283.42","Low":"1207.68","Close":"1232.56","Year":"2016","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-04-01 04:00","Open":"1231.91","High":"1296.56","Low":"1208.85","Close":"1293.25","Year":"2016","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-05-01 04:00","Open":"1290.37","High":"1303.58","Low":"1199.55","Close":"1215.10","Year":"2016","Quarter":"2","Month":"5","Week":"17"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-06-01 04:00","Open":"1214.59","High":"1358.20","Low":"1205.88","Close":"1321.32","Year":"2016","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-07-01 04:00","Open":"1323.19","High":"1375.00","Low":"1310.70","Close":"1350.75","Year":"2016","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-08-01 04:00","Open":"1349.61","High":"1367.14","Low":"1304.09","Close":"1308.72","Year":"2016","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-09-01 04:00","Open":"1308.06","High":"1352.46","Low":"1302.34","Close":"1315.75","Year":"2016","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-10-01 04:00","Open":"1318.09","High":"1319.50","Low":"1241.26","Close":"1276.77","Year":"2016","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-11-01 04:00","Open":"1276.64","High":"1337.12","Low":"1170.61","Close":"1172.95","Year":"2016","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-12-01 04:00","Open":"1172.81","High":"1187.91","Low":"1122.66","Close":"1152.24","Year":"2016","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-01-01 04:00","Open":"1149.71","High":"1219.98","Low":"1145.92","Close":"1210.45","Year":"2017","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-02-01 04:00","Open":"1209.95","High":"1263.74","Low":"1198.04","Close":"1248.17","Year":"2017","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-03-01 04:00","Open":"1247.60","High":"1260.92","Low":"1194.84","Close":"1248.43","Year":"2017","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-04-01 04:00","Open":"1249.66","High":"1295.38","Low":"1243.56","Close":"1267.76","Year":"2017","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-05-01 04:00","Open":"1267.30","High":"1274.01","Low":"1214.17","Close":"1268.59","Year":"2017","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-06-01 04:00","Open":"1268.08","High":"1295.97","Low":"1235.74","Close":"1241.25","Year":"2017","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-07-01 04:00","Open":"1241.39","High":"1271.01","Low":"1204.67","Close":"1269.24","Year":"2017","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-08-01 04:00","Open":"1268.62","High":"1325.85","Low":"1251.36","Close":"1321.17","Year":"2017","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-09-01 04:00","Open":"1321.33","High":"1357.41","Low":"1275.90","Close":"1278.59","Year":"2017","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-10-01 04:00","Open":"1278.41","High":"1305.85","Low":"1260.43","Close":"1270.62","Year":"2017","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-11-01 04:00","Open":"1270.49","High":"1299.06","Low":"1265.29","Close":"1274.62","Year":"2017","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-12-01 04:00","Open":"1274.79","High":"1307.41","Low":"1236.33","Close":"1302.42","Year":"2017","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-01-01 04:00","Open":"1309.57","High":"1365.89","Low":"1305.73","Close":"1344.82","Year":"2018","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-02-01 04:00","Open":"1344.70","High":"1361.61","Low":"1306.96","Close":"1317.85","Year":"2018","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-03-01 04:00","Open":"1318.08","High":"1356.74","Low":"1302.69","Close":"1324.94","Year":"2018","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-04-01 04:00","Open":"1325.60","High":"1365.14","Low":"1310.13","Close":"1315.10","Year":"2018","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-05-01 04:00","Open":"1314.70","High":"1325.82","Low":"1281.96","Close":"1298.03","Year":"2018","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-06-01 04:00","Open":"1298.72","High":"1309.19","Low":"1245.84","Close":"1252.50","Year":"2018","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-07-01 04:00","Open":"1251.90","High":"1265.82","Low":"1211.38","Close":"1223.49","Year":"2018","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-08-01 04:00","Open":"1223.46","High":"1224.71","Low":"1160.01","Close":"1200.87","Year":"2018","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-09-01 04:00","Open":"1200.64","High":"1212.54","Low":"1180.54","Close":"1191.88","Year":"2018","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-10-01 04:00","Open":"1192.19","High":"1243.36","Low":"1183.18","Close":"1214.26","Year":"2018","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-11-01 04:00","Open":"1214.62","High":"1237.37","Low":"1196.21","Close":"1222.11","Year":"2018","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-12-01 04:00","Open":"1221.89","High":"1284.02","Low":"1221.25","Close":"1281.24","Year":"2018","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-01-01 04:00","Open":"1285.81","High":"1326.25","Low":"1276.55","Close":"1320.97","Year":"2019","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-02-01 04:00","Open":"1321.08","High":"1346.66","Low":"1302.34","Close":"1312.77","Year":"2019","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-03-01 04:00","Open":"1313.67","High":"1324.43","Low":"1280.64","Close":"1291.84","Year":"2019","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-04-01 04:00","Open":"1292.36","High":"1310.53","Low":"1266.23","Close":"1283.37","Year":"2019","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-05-01 04:00","Open":"1283.29","High":"1306.92","Low":"1266.23","Close":"1305.40","Year":"2019","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-06-01 04:00","Open":"1307.44","High":"1439.18","Low":"1305.98","Close":"1409.38","Year":"2019","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-07-01 04:00","Open":"1398.59","High":"1452.92","Low":"1381.66","Close":"1412.54","Year":"2019","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-08-01 04:00","Open":"1413.47","High":"1555.15","Low":"1400.44","Close":"1519.71","Year":"2019","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-09-01 04:00","Open":"1526.28","High":"1556.97","Low":"1464.43","Close":"1472.41","Year":"2019","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-10-01 04:00","Open":"1471.49","High":"1519.54","Low":"1459.05","Close":"1512.49","Year":"2019","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-11-01 04:00","Open":"1512.45","High":"1515.86","Low":"1445.59","Close":"1462.93","Year":"2019","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-12-01 04:00","Open":"1464.11","High":"1525.22","Low":"1453.91","Close":"1521.91","Year":"2019","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-01-01 04:00","Open":"1520.60","High":"1611.35","Low":"1518.39","Close":"1588.19","Year":"2020","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-02-01 04:00","Open":"1593.17","High":"1689.23","Low":"1547.43","Close":"1585.85","Year":"2020","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-03-01 04:00","Open":"1591.45","High":"1703.41","Low":"1451.15","Close":"1575.57","Year":"2020","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-04-01 04:00","Open":"1568.34","High":"1747.11","Low":"1565.39","Close":"1685.62","Year":"2020","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-05-01 04:00","Open":"1684.62","High":"1765.15","Low":"1668.97","Close":"1728.75","Year":"2020","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-06-01 04:00","Open":"1733.58","High":"1785.92","Low":"1670.57","Close":"1780.43","Year":"2020","Quarter":"2","Month":"6","Week":"23"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-07-01 04:00","Open":"1781.98","High":"1983.17","Low":"1757.23","Close":"1973.99","Year":"2020","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-08-01 04:00","Open":"1978.79","High":"2074.90","Low":"1863.09","Close":"1967.25","Year":"2020","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-09-01 04:00","Open":"1967.17","High":"1992.45","Low":"1848.71","Close":"1885.33","Year":"2020","Quarter":"3","Month":"9","Week":"36"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-10-01 04:00","Open":"1885.43","High":"1933.19","Low":"1859.86","Close":"1878.61","Year":"2020","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-11-01 04:00","Open":"1876.57","High":"1965.46","Low":"1764.47","Close":"1776.67","Year":"2020","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-12-01 04:00","Open":"1777.11","High":"1906.66","Low":"1775.65","Close":"1895.34","Year":"2020","Quarter":"4","Month":"12","Week":"49"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-01-01 04:00","Open":"1904.13","High":"1959.37","Low":"1805.18","Close":"1848.40","Year":"2021","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-02-01 04:00","Open":"1862.98","High":"1871.59","Low":"1717.05","Close":"1734.15","Year":"2021","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-03-01 04:00","Open":"1733.69","High":"1759.87","Low":"1676.70","Close":"1707.30","Year":"2021","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-04-01 04:00","Open":"1707.48","High":"1797.80","Low":"1705.73","Close":"1769.08","Year":"2021","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-05-01 04:00","Open":"1767.94","High":"1912.68","Low":"1766.01","Close":"1906.37","Year":"2021","Quarter":"2","Month":"5","Week":"17"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-06-01 04:00","Open":"1906.57","High":"1916.49","Low":"1750.55","Close":"1770.38","Year":"2021","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-07-01 04:00","Open":"1769.69","High":"1834.18","Low":"1765.56","Close":"1813.77","Year":"2021","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-08-01 04:00","Open":"1813.99","High":"1831.55","Low":"1680.49","Close":"1813.65","Year":"2021","Quarter":"3","Month":"8","Week":"30"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-09-01 04:00","Open":"1813.73","High":"1833.98","Low":"1721.45","Close":"1756.98","Year":"2021","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-10-01 04:00","Open":"1756.25","High":"1813.88","Low":"1745.82","Close":"1782.92","Year":"2021","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-11-01 04:00","Open":"1783.03","High":"1877.09","Low":"1758.98","Close":"1774.81","Year":"2021","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-12-01 04:00","Open":"1775.11","High":"1827.50","Low":"1752.69","Close":"1825.19","Year":"2021","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-01-01 04:00","Open":"1829.73","High":"1853.78","Low":"1780.20","Close":"1797.21","Year":"2022","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-02-01 04:00","Open":"1797.47","High":"1974.31","Low":"1788.58","Close":"1908.54","Year":"2022","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-03-01 04:00","Open":"1906.90","High":"2070.46","Low":"1890.04","Close":"1937.05","Year":"2022","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-04-01 04:00","Open":"1937.19","High":"1998.36","Low":"1872.07","Close":"1896.33","Year":"2022","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-05-01 04:00","Open":"1896.83","High":"1909.73","Low":"1786.76","Close":"1837.37","Year":"2022","Quarter":"2","Month":"5","Week":"17"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-06-01 04:00","Open":"1837.26","High":"1878.78","Low":"1802.65","Close":"1807.03","Year":"2022","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-07-01 04:00","Open":"1807.58","High":"1814.08","Low":"1680.78","Close":"1765.78","Year":"2022","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-08-01 04:00","Open":"1765.02","High":"1807.89","Low":"1709.55","Close":"1710.98","Year":"2022","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-09-01 04:00","Open":"1711.07","High":"1735.09","Low":"1614.81","Close":"1660.89","Year":"2022","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-10-01 04:00","Open":"1660.31","High":"1729.52","Low":"1617.17","Close":"1633.56","Year":"2022","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-11-01 04:00","Open":"1633.07","High":"1786.45","Low":"1616.63","Close":"1768.51","Year":"2022","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-12-01 04:00","Open":"1768.13","High":"1833.31","Low":"1765.82","Close":"1823.66","Year":"2022","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-01-01 04:00","Open":"1826.74","High":"1949.14","Low":"1823.69","Close":"1928.12","Year":"2023","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-02-01 04:00","Open":"1928.26","High":"1959.76","Low":"1804.71","Close":"1826.72","Year":"2023","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-03-01 04:00","Open":"1826.80","High":"2009.76","Low":"1809.38","Close":"1969.24","Year":"2023","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-04-01 04:00","Open":"1970.10","High":"2048.74","Low":"1949.72","Close":"1989.33","Year":"2023","Quarter":"2","Month":"4","Week":"13"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-05-01 04:00","Open":"1991.30","High":"2079.19","Low":"1931.97","Close":"1962.53","Year":"2023","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-06-01 04:00","Open":"1962.24","High":"1983.42","Low":"1892.94","Close":"1919.30","Year":"2023","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-07-01 04:00","Open":"1918.87","High":"1987.42","Low":"1902.59","Close":"1965.43","Year":"2023","Quarter":"3","Month":"7","Week":"26"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-08-01 04:00","Open":"1965.45","High":"1965.93","Low":"1884.72","Close":"1940.05","Year":"2023","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-09-01 04:00","Open":"1939.30","High":"1952.87","Low":"1846.26","Close":"1848.67","Year":"2023","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-10-01 04:00","Open":"1847.73","High":"2009.40","Low":"1810.39","Close":"1983.91","Year":"2023","Quarter":"4","Month":"10","Week":"39"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-11-01 04:00","Open":"1983.73","High":"2051.91","Low":"1931.56","Close":"2035.98","Year":"2023","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-12-01 04:00","Open":"2036.56","High":"2144.63","Low":"1972.98","Close":"2062.79","Year":"2023","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-01-01 04:00","Open":"2062.81","High":"2078.90","Low":"2001.78","Close":"2039.10","Year":"2024","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-02-01 04:00","Open":"2039.43","High":"2065.35","Low":"1984.18","Close":"2044.03","Year":"2024","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-03-01 04:00","Open":"2043.45","High":"2236.15","Low":"2039.01","Close":"2232.74","Year":"2024","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-04-01 04:00","Open":"2240.54","High":"2431.48","Low":"2228.45","Close":"2286.04","Year":"2024","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-05-01 04:00","Open":"2286.12","High":"2450.00","Low":"2277.26","Close":"2327.07","Year":"2024","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-06-01 04:00","Open":"2328.26","High":"2387.67","Low":"2286.68","Close":"2326.46","Year":"2024","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-07-01 04:00","Open":"2326.29","High":"2483.61","Low":"2318.43","Close":"2447.14","Year":"2024","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-08-01 04:00","Open":"2448.08","High":"2531.66","Low":"2364.23","Close":"2503.21","Year":"2024","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-09-01 04:00","Open":"2502.42","High":"2685.51","Low":"2471.85","Close":"2634.45","Year":"2024","Quarter":"3","Month":"9","Week":"35"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-10-01 04:00","Open":"2634.02","High":"2790.01","Low":"2602.34","Close":"2743.82","Year":"2024","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-11-01 04:00","Open":"2744.12","High":"2762.21","Low":"2536.77","Close":"2649.21","Year":"2024","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-12-01 04:00","Open":"2652.19","High":"2726.03","Low":"2582.13","Close":"2623.34","Year":"2024","Quarter":"4","Month":"12","Week":"48"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-01-01 04:00","Open":"2634.08","High":"2817.17","Low":"2614.68","Close":"2798.63","Year":"2025","Quarter":"1","Month":"1","Week":"1"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-02-01 04:00","Open":"2803.67","High":"2956.20","Low":"2772.09","Close":"2857.86","Year":"2025","Quarter":"1","Month":"2","Week":"5"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-03-01 04:00","Open":"2855.45","High":"3127.78","Low":"2855.02","Close":"3123.76","Year":"2025","Quarter":"1","Month":"3","Week":"9"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-04-01 04:00","Open":"3122.70","High":"3499.99","Low":"2956.20","Close":"3288.42","Year":"2025","Quarter":"2","Month":"4","Week":"14"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-05-01 04:00","Open":"3286.77","High":"3437.81","Low":"3120.69","Close":"3289.57","Year":"2025","Quarter":"2","Month":"5","Week":"18"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-06-01 04:00","Open":"3299.16","High":"3451.45","Low":"3246.79","Close":"3302.99","Year":"2025","Quarter":"2","Month":"6","Week":"22"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-07-01 04:00","Open":"3303.06","High":"3438.97","Low":"3268.01","Close":"3290.02","Year":"2025","Quarter":"3","Month":"7","Week":"27"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-08-01 04:00","Open":"3290.34","High":"3453.93","Low":"3281.61","Close":"3448.52","Year":"2025","Quarter":"3","Month":"8","Week":"31"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-09-01 04:00","Open":"3448.06","High":"3871.74","Low":"3436.80","Close":"3858.37","Year":"2025","Quarter":"3","Month":"9","Week":"36"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-10-01 04:00","Open":"3859.58","High":"4381.46","Low":"3819.31","Close":"4001.62","Year":"2025","Quarter":"4","Month":"10","Week":"40"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-11-01 04:00","Open":"3983.55","High":"4245.16","Low":"3928.75","Close":"4220.10","Year":"2025","Quarter":"4","Month":"11","Week":"44"},
-  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-12-01 04:00","Open":"4222.11","High":"4550.06","Low":"4163.92","Close":"4532.45","Year":"2025","Quarter":"4","Month":"12","Week":"49"}
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-06-01 04:00","Open":"266.50","High":"279.55","Low":"264.25","Close":"271.10","Year":"2001","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-07-01 04:00","Open":"270.60","High":"272.50","Low":"264.00","Close":"267.10","Year":"2001","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-08-01 04:00","Open":"266.60","High":"281.70","Low":"265.75","Close":"274.70","Year":"2001","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-09-01 04:00","Open":"274.45","High":"296.10","Low":"270.45","Close":"293.45","Year":"2001","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-10-01 04:00","Open":"292.00","High":"294.62","Low":"273.95","Close":"279.75","Year":"2001","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-11-01 04:00","Open":"279.25","High":"282.50","Low":"271.70","Close":"274.65","Year":"2001","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2001-12-01 04:00","Open":"274.15","High":"281.75","Low":"270.95","Close":"279.20","Year":"2001","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-01-01 04:00","Open":"278.20","High":"290.00","Low":"276.55","Close":"282.95","Year":"2002","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-02-01 04:00","Open":"282.70","High":"309.30","Low":"281.45","Close":"296.80","Year":"2002","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-03-01 04:00","Open":"296.30","High":"305.27","Low":"287.40","Close":"302.75","Year":"2002","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-04-01 04:00","Open":"301.75","High":"313.00","Low":"296.75","Close":"308.70","Year":"2002","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-05-01 04:00","Open":"308.20","High":"330.25","Low":"305.95","Close":"326.80","Year":"2002","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-06-01 04:00","Open":"326.30","High":"332.15","Low":"309.90","Close":"314.70","Year":"2002","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-07-01 04:00","Open":"313.70","High":"326.40","Low":"300.50","Close":"303.80","Year":"2002","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-08-01 04:00","Open":"303.30","High":"318.50","Low":"298.45","Close":"313.00","Year":"2002","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-09-01 04:00","Open":"312.50","High":"328.30","Low":"310.90","Close":"324.17","Year":"2002","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-10-01 04:00","Open":"323.50","High":"324.72","Low":"308.50","Close":"317.77","Year":"2002","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-11-01 04:00","Open":"317.75","High":"325.40","Low":"315.62","Close":"317.90","Year":"2002","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2002-12-01 04:00","Open":"318.47","High":"354.72","Low":"315.70","Close":"347.80","Year":"2002","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-01-01 04:00","Open":"348.05","High":"374.22","Low":"342.11","Close":"368.15","Year":"2003","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-02-01 04:00","Open":"368.15","High":"388.75","Low":"341.00","Close":"349.95","Year":"2003","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-03-01 04:00","Open":"349.50","High":"358.60","Low":"325.49","Close":"336.55","Year":"2003","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-04-01 04:00","Open":"337.11","High":"340.35","Low":"318.88","Close":"338.55","Year":"2003","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-05-01 04:00","Open":"339.45","High":"375.02","Low":"337.70","Close":"364.85","Year":"2003","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-06-01 04:00","Open":"363.25","High":"370.30","Low":"342.40","Close":"345.75","Year":"2003","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-07-01 04:00","Open":"345.85","High":"368.00","Low":"340.10","Close":"354.25","Year":"2003","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-08-01 04:00","Open":"355.32","High":"378.00","Low":"344.95","Close":"375.55","Year":"2003","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-09-01 04:00","Open":"375.00","High":"394.00","Low":"369.55","Close":"385.35","Year":"2003","Quarter":"3","Month":"9","Week":"36"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-10-01 04:00","Open":"385.50","High":"392.70","Low":"366.00","Close":"384.50","Year":"2003","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-11-01 04:00","Open":"384.60","High":"401.10","Low":"375.65","Close":"398.05","Year":"2003","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2003-12-01 04:00","Open":"397.50","High":"417.90","Low":"396.55","Close":"415.75","Year":"2003","Quarter":"4","Month":"12","Week":"49"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-01-01 04:00","Open":"415.35","High":"430.70","Low":"396.30","Close":"402.40","Year":"2004","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-02-01 04:00","Open":"402.30","High":"417.50","Low":"390.60","Close":"396.24","Year":"2004","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-03-01 04:00","Open":"396.25","High":"427.60","Low":"387.90","Close":"427.18","Year":"2004","Quarter":"1","Month":"3","Week":"10"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-04-01 04:00","Open":"427.21","High":"432.60","Low":"377.38","Close":"387.59","Year":"2004","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-05-01 04:00","Open":"387.59","High":"396.98","Low":"371.45","Close":"395.38","Year":"2004","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-06-01 04:00","Open":"395.41","High":"405.35","Low":"381.35","Close":"392.10","Year":"2004","Quarter":"2","Month":"6","Week":"23"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-07-01 04:00","Open":"392.80","High":"409.47","Low":"385.18","Close":"391.33","Year":"2004","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-08-01 04:00","Open":"391.27","High":"414.44","Low":"388.73","Close":"410.21","Year":"2004","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-09-01 04:00","Open":"410.20","High":"419.36","Low":"394.87","Close":"418.76","Year":"2004","Quarter":"3","Month":"9","Week":"36"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-10-01 04:00","Open":"418.75","High":"430.55","Low":"409.55","Close":"428.60","Year":"2004","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-11-01 04:00","Open":"429.10","High":"455.55","Low":"417.05","Close":"450.85","Year":"2004","Quarter":"4","Month":"11","Week":"45"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2004-12-01 04:00","Open":"451.10","High":"457.05","Low":"431.51","Close":"438.32","Year":"2004","Quarter":"4","Month":"12","Week":"49"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-01-01 04:00","Open":"438.45","High":"461.35","Low":"416.57","Close":"422.60","Year":"2005","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-02-01 04:00","Open":"422.58","High":"438.43","Low":"410.25","Close":"435.61","Year":"2005","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-03-01 04:00","Open":"435.62","High":"447.50","Low":"423.28","Close":"428.73","Year":"2005","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-04-01 04:00","Open":"428.71","High":"438.45","Low":"421.83","Close":"434.95","Year":"2005","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-05-01 04:00","Open":"434.96","High":"435.87","Low":"414.15","Close":"417.10","Year":"2005","Quarter":"2","Month":"5","Week":"17"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-06-01 04:00","Open":"416.31","High":"444.00","Low":"414.38","Close":"435.55","Year":"2005","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-07-01 04:00","Open":"435.50","High":"437.00","Low":"417.85","Close":"429.60","Year":"2005","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-08-01 04:00","Open":"429.80","High":"450.04","Low":"428.80","Close":"435.05","Year":"2005","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-09-01 04:00","Open":"435.10","High":"475.20","Low":"434.60","Close":"468.90","Year":"2005","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-10-01 04:00","Open":"468.75","High":"480.11","Low":"459.75","Close":"465.65","Year":"2005","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-11-01 04:00","Open":"465.90","High":"502.45","Low":"454.80","Close":"492.85","Year":"2005","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2005-12-01 04:00","Open":"492.95","High":"541.00","Low":"489.45","Close":"516.97","Year":"2005","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-01-01 04:00","Open":"516.98","High":"572.70","Low":"516.98","Close":"568.20","Year":"2006","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-02-01 04:00","Open":"570.60","High":"575.10","Low":"534.65","Close":"561.40","Year":"2006","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-03-01 04:00","Open":"561.35","High":"589.35","Low":"533.50","Close":"582.28","Year":"2006","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-04-01 04:00","Open":"582.50","High":"655.80","Low":"581.65","Close":"654.53","Year":"2006","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-05-01 04:00","Open":"654.35","High":"730.25","Low":"635.50","Close":"644.94","Year":"2006","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-06-01 04:00","Open":"644.85","High":"645.53","Low":"542.54","Close":"615.28","Year":"2006","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-07-01 04:00","Open":"613.00","High":"674.82","Low":"601.90","Close":"636.14","Year":"2006","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-08-01 04:00","Open":"636.25","High":"655.92","Low":"607.11","Close":"626.89","Year":"2006","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-09-01 04:00","Open":"626.54","High":"640.24","Low":"570.45","Close":"598.40","Year":"2006","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-10-01 04:00","Open":"598.39","High":"610.52","Low":"559.07","Close":"606.28","Year":"2006","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-11-01 04:00","Open":"606.36","High":"648.65","Low":"605.25","Close":"647.60","Year":"2006","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2006-12-01 04:00","Open":"647.90","High":"649.75","Low":"612.25","Close":"636.35","Year":"2006","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-01-01 04:00","Open":"637.78","High":"654.40","Low":"601.75","Close":"652.45","Year":"2007","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-02-01 04:00","Open":"652.75","High":"688.80","Low":"642.80","Close":"668.91","Year":"2007","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-03-01 04:00","Open":"668.96","High":"677.15","Low":"632.30","Close":"663.30","Year":"2007","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-04-01 04:00","Open":"665.25","High":"693.55","Low":"656.05","Close":"678.20","Year":"2007","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-05-01 04:00","Open":"678.15","High":"690.70","Low":"651.90","Close":"660.40","Year":"2007","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-06-01 04:00","Open":"660.43","High":"673.80","Low":"639.22","Close":"649.20","Year":"2007","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-07-01 04:00","Open":"649.25","High":"687.80","Low":"645.03","Close":"664.00","Year":"2007","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-08-01 04:00","Open":"664.05","High":"676.80","Low":"641.75","Close":"672.95","Year":"2007","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-09-01 04:00","Open":"672.70","High":"745.85","Low":"671.35","Close":"743.20","Year":"2007","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-10-01 04:00","Open":"743.65","High":"797.30","Low":"720.70","Close":"795.75","Year":"2007","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-11-01 04:00","Open":"795.80","High":"845.65","Low":"772.70","Close":"783.38","Year":"2007","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2007-12-01 04:00","Open":"784.05","High":"843.08","Low":"776.95","Close":"832.89","Year":"2007","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-01-01 04:00","Open":"833.50","High":"936.85","Low":"833.50","Close":"926.03","Year":"2008","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-02-01 04:00","Open":"925.80","High":"976.18","Low":"884.20","Close":"973.60","Year":"2008","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-03-01 04:00","Open":"973.80","High":"1032.60","Low":"904.48","Close":"916.10","Year":"2008","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-04-01 04:00","Open":"916.20","High":"952.80","Low":"862.38","Close":"877.43","Year":"2008","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-05-01 04:00","Open":"877.10","High":"935.25","Low":"845.05","Close":"886.40","Year":"2008","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-06-01 04:00","Open":"886.50","High":"935.30","Low":"857.35","Close":"925.35","Year":"2008","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-07-01 04:00","Open":"925.30","High":"988.28","Low":"893.80","Close":"913.70","Year":"2008","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-08-01 04:00","Open":"913.80","High":"917.10","Low":"772.80","Close":"830.85","Year":"2008","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-09-01 04:00","Open":"834.78","High":"926.70","Low":"736.18","Close":"871.50","Year":"2008","Quarter":"3","Month":"9","Week":"36"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-10-01 04:00","Open":"871.43","High":"930.48","Low":"681.43","Close":"724.20","Year":"2008","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-11-01 04:00","Open":"726.78","High":"830.80","Low":"699.70","Close":"817.93","Year":"2008","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2008-12-01 04:00","Open":"817.90","High":"890.10","Low":"741.13","Close":"874.38","Year":"2008","Quarter":"4","Month":"12","Week":"49"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-01-01 04:00","Open":"873.13","High":"929.48","Low":"801.53","Close":"927.00","Year":"2009","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-02-01 04:00","Open":"927.35","High":"1005.98","Low":"889.00","Close":"941.72","Year":"2009","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-03-01 04:00","Open":"939.90","High":"966.70","Low":"883.78","Close":"918.90","Year":"2009","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-04-01 04:00","Open":"918.93","High":"932.92","Low":"864.50","Close":"888.10","Year":"2009","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-05-01 04:00","Open":"888.12","High":"980.22","Low":"880.15","Close":"976.25","Year":"2009","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-06-01 04:00","Open":"979.03","High":"989.97","Low":"912.83","Close":"926.28","Year":"2009","Quarter":"2","Month":"6","Week":"23"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-07-01 04:00","Open":"926.30","High":"958.80","Low":"904.93","Close":"953.50","Year":"2009","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-08-01 04:00","Open":"954.20","High":"971.60","Low":"930.33","Close":"951.10","Year":"2009","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-09-01 04:00","Open":"951.08","High":"1023.90","Low":"946.35","Close":"1007.38","Year":"2009","Quarter":"3","Month":"9","Week":"36"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-10-01 04:00","Open":"1007.43","High":"1070.80","Low":"986.58","Close":"1044.98","Year":"2009","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-11-01 04:00","Open":"1043.90","High":"1195.22","Low":"1041.18","Close":"1179.15","Year":"2009","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2009-12-01 04:00","Open":"1179.15","High":"1226.37","Low":"1074.50","Close":"1098.15","Year":"2009","Quarter":"4","Month":"12","Week":"49"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-01-01 04:00","Open":"1096.85","High":"1161.90","Low":"1074.15","Close":"1080.59","Year":"2010","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-02-01 04:00","Open":"1080.65","High":"1130.63","Low":"1044.35","Close":"1117.30","Year":"2010","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-03-01 04:00","Open":"1117.50","High":"1144.85","Low":"1084.95","Close":"1112.83","Year":"2010","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-04-01 04:00","Open":"1112.89","High":"1181.60","Low":"1111.47","Close":"1178.55","Year":"2010","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-05-01 04:00","Open":"1177.95","High":"1249.25","Low":"1157.15","Close":"1215.90","Year":"2010","Quarter":"2","Month":"5","Week":"17"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-06-01 04:00","Open":"1215.93","High":"1265.03","Low":"1196.32","Close":"1242.05","Year":"2010","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-07-01 04:00","Open":"1242.00","High":"1243.82","Low":"1156.75","Close":"1180.75","Year":"2010","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-08-01 04:00","Open":"1181.70","High":"1249.63","Low":"1174.30","Close":"1247.20","Year":"2010","Quarter":"3","Month":"8","Week":"30"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-09-01 04:00","Open":"1248.85","High":"1315.83","Low":"1236.53","Close":"1308.05","Year":"2010","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-10-01 04:00","Open":"1306.97","High":"1387.07","Low":"1305.65","Close":"1358.90","Year":"2010","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-11-01 04:00","Open":"1359.03","High":"1424.25","Low":"1325.48","Close":"1386.00","Year":"2010","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2010-12-01 04:00","Open":"1386.43","High":"1431.03","Low":"1361.25","Close":"1418.22","Year":"2010","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-01-01 04:00","Open":"1418.75","High":"1423.70","Low":"1308.07","Close":"1332.65","Year":"2011","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-02-01 04:00","Open":"1332.93","High":"1417.99","Low":"1324.95","Close":"1410.73","Year":"2011","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-03-01 04:00","Open":"1411.28","High":"1447.61","Low":"1380.71","Close":"1431.90","Year":"2011","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-04-01 04:00","Open":"1432.73","High":"1569.25","Low":"1412.52","Close":"1562.90","Year":"2011","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-05-01 04:00","Open":"1567.03","High":"1576.48","Low":"1462.35","Close":"1535.50","Year":"2011","Quarter":"2","Month":"5","Week":"17"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-06-01 04:00","Open":"1535.20","High":"1558.07","Low":"1490.65","Close":"1499.61","Year":"2011","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-07-01 04:00","Open":"1500.57","High":"1632.47","Low":"1478.04","Close":"1626.65","Year":"2011","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-08-01 04:00","Open":"1606.78","High":"1911.89","Low":"1606.78","Close":"1825.75","Year":"2011","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-09-01 04:00","Open":"1824.40","High":"1920.80","Low":"1532.64","Close":"1623.50","Year":"2011","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-10-01 04:00","Open":"1619.95","High":"1752.35","Low":"1595.65","Close":"1714.55","Year":"2011","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-11-01 04:00","Open":"1713.96","High":"1802.54","Low":"1666.66","Close":"1745.90","Year":"2011","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2011-12-01 04:00","Open":"1747.93","High":"1762.97","Low":"1522.35","Close":"1564.16","Year":"2011","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-01-01 04:00","Open":"1565.15","High":"1747.34","Low":"1565.15","Close":"1737.25","Year":"2012","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-02-01 04:00","Open":"1736.40","High":"1790.42","Low":"1686.70","Close":"1696.45","Year":"2012","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-03-01 04:00","Open":"1695.35","High":"1725.69","Low":"1627.78","Close":"1667.85","Year":"2012","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-04-01 04:00","Open":"1669.71","High":"1683.43","Low":"1611.80","Close":"1663.60","Year":"2012","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-05-01 04:00","Open":"1664.72","High":"1671.45","Low":"1526.87","Close":"1559.73","Year":"2012","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-06-01 04:00","Open":"1559.73","High":"1640.73","Low":"1544.88","Close":"1597.14","Year":"2012","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-07-01 04:00","Open":"1598.61","High":"1629.36","Low":"1554.75","Close":"1614.16","Year":"2012","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-08-01 04:00","Open":"1614.19","High":"1692.76","Low":"1583.95","Close":"1691.31","Year":"2012","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-09-01 04:00","Open":"1690.65","High":"1787.40","Low":"1685.30","Close":"1771.90","Year":"2012","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-10-01 04:00","Open":"1770.81","High":"1795.73","Low":"1698.38","Close":"1719.80","Year":"2012","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-11-01 04:00","Open":"1719.40","High":"1754.10","Low":"1672.46","Close":"1714.48","Year":"2012","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2012-12-01 04:00","Open":"1713.16","High":"1723.23","Low":"1635.39","Close":"1660.78","Year":"2012","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-01-01 04:00","Open":"1674.78","High":"1696.95","Low":"1625.53","Close":"1663.46","Year":"2013","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-02-01 04:00","Open":"1663.96","High":"1684.76","Low":"1554.85","Close":"1579.30","Year":"2013","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-03-01 04:00","Open":"1579.13","High":"1616.77","Low":"1561.30","Close":"1598.70","Year":"2013","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-04-01 04:00","Open":"1597.14","High":"1603.69","Low":"1321.34","Close":"1476.13","Year":"2013","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-05-01 04:00","Open":"1475.49","High":"1487.81","Low":"1337.75","Close":"1387.33","Year":"2013","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-06-01 04:00","Open":"1388.99","High":"1423.67","Low":"1180.11","Close":"1234.10","Year":"2013","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-07-01 04:00","Open":"1233.23","High":"1347.40","Low":"1208.03","Close":"1324.52","Year":"2013","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-08-01 04:00","Open":"1324.54","High":"1433.51","Low":"1272.60","Close":"1394.58","Year":"2013","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-09-01 04:00","Open":"1392.90","High":"1416.14","Low":"1291.64","Close":"1328.53","Year":"2013","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-10-01 04:00","Open":"1328.53","High":"1361.60","Low":"1251.58","Close":"1322.21","Year":"2013","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-11-01 04:00","Open":"1322.57","High":"1327.26","Low":"1227.74","Close":"1251.33","Year":"2013","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2013-12-01 04:00","Open":"1250.62","High":"1267.76","Low":"1182.16","Close":"1206.29","Year":"2013","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-01-01 04:00","Open":"1225.05","High":"1278.83","Low":"1213.58","Close":"1243.88","Year":"2014","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-02-01 04:00","Open":"1242.35","High":"1345.25","Low":"1240.67","Close":"1325.78","Year":"2014","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-03-01 04:00","Open":"1332.05","High":"1392.07","Low":"1282.39","Close":"1283.96","Year":"2014","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-04-01 04:00","Open":"1283.96","High":"1330.91","Low":"1268.23","Close":"1291.06","Year":"2014","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-05-01 04:00","Open":"1291.06","High":"1315.42","Low":"1242.12","Close":"1249.21","Year":"2014","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-06-01 04:00","Open":"1249.90","High":"1329.34","Low":"1240.45","Close":"1327.06","Year":"2014","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-07-01 04:00","Open":"1327.03","High":"1345.02","Low":"1280.36","Close":"1282.31","Year":"2014","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-08-01 04:00","Open":"1282.26","High":"1322.54","Low":"1272.83","Close":"1286.66","Year":"2014","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-09-01 04:00","Open":"1286.12","High":"1289.73","Low":"1204.36","Close":"1207.92","Year":"2014","Quarter":"3","Month":"9","Week":"36"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-10-01 04:00","Open":"1207.75","High":"1255.07","Low":"1161.00","Close":"1172.46","Year":"2014","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-11-01 04:00","Open":"1170.65","High":"1207.65","Low":"1131.65","Close":"1168.41","Year":"2014","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2014-12-01 04:00","Open":"1159.16","High":"1238.07","Low":"1142.63","Close":"1187.23","Year":"2014","Quarter":"4","Month":"12","Week":"49"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-01-01 04:00","Open":"1186.07","High":"1307.47","Low":"1167.25","Close":"1283.41","Year":"2015","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-02-01 04:00","Open":"1281.34","High":"1285.60","Low":"1190.13","Close":"1213.01","Year":"2015","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-03-01 04:00","Open":"1212.89","High":"1223.09","Low":"1142.65","Close":"1183.22","Year":"2015","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-04-01 04:00","Open":"1182.22","High":"1224.09","Low":"1175.09","Close":"1184.05","Year":"2015","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-05-01 04:00","Open":"1183.46","High":"1232.22","Low":"1170.16","Close":"1190.05","Year":"2015","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-06-01 04:00","Open":"1188.29","High":"1205.63","Low":"1162.69","Close":"1171.98","Year":"2015","Quarter":"2","Month":"6","Week":"23"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-07-01 04:00","Open":"1172.33","High":"1175.01","Low":"1071.19","Close":"1095.50","Year":"2015","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-08-01 04:00","Open":"1095.56","High":"1169.97","Low":"1080.90","Close":"1134.74","Year":"2015","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-09-01 04:00","Open":"1134.10","High":"1156.61","Low":"1098.67","Close":"1114.56","Year":"2015","Quarter":"3","Month":"9","Week":"36"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-10-01 04:00","Open":"1114.92","High":"1191.47","Low":"1104.54","Close":"1141.78","Year":"2015","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-11-01 04:00","Open":"1140.84","High":"1142.87","Low":"1052.59","Close":"1064.50","Year":"2015","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2015-12-01 04:00","Open":"1065.01","High":"1088.76","Low":"1046.29","Close":"1061.89","Year":"2015","Quarter":"4","Month":"12","Week":"49"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-01-01 04:00","Open":"1062.30","High":"1127.95","Low":"1061.68","Close":"1117.99","Year":"2016","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-02-01 04:00","Open":"1117.38","High":"1263.28","Low":"1115.37","Close":"1238.33","Year":"2016","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-03-01 04:00","Open":"1237.98","High":"1283.42","Low":"1207.68","Close":"1232.56","Year":"2016","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-04-01 04:00","Open":"1231.91","High":"1296.56","Low":"1208.85","Close":"1293.25","Year":"2016","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-05-01 04:00","Open":"1290.37","High":"1303.58","Low":"1199.55","Close":"1215.10","Year":"2016","Quarter":"2","Month":"5","Week":"17"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-06-01 04:00","Open":"1214.59","High":"1358.20","Low":"1205.88","Close":"1321.32","Year":"2016","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-07-01 04:00","Open":"1323.19","High":"1375.00","Low":"1310.70","Close":"1350.75","Year":"2016","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-08-01 04:00","Open":"1349.61","High":"1367.14","Low":"1304.09","Close":"1308.72","Year":"2016","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-09-01 04:00","Open":"1308.06","High":"1352.46","Low":"1302.34","Close":"1315.75","Year":"2016","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-10-01 04:00","Open":"1318.09","High":"1319.50","Low":"1241.26","Close":"1276.77","Year":"2016","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-11-01 04:00","Open":"1276.64","High":"1337.12","Low":"1170.61","Close":"1172.95","Year":"2016","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2016-12-01 04:00","Open":"1172.81","High":"1187.91","Low":"1122.66","Close":"1152.24","Year":"2016","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-01-01 04:00","Open":"1149.71","High":"1219.98","Low":"1145.92","Close":"1210.45","Year":"2017","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-02-01 04:00","Open":"1209.95","High":"1263.74","Low":"1198.04","Close":"1248.17","Year":"2017","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-03-01 04:00","Open":"1247.60","High":"1260.92","Low":"1194.84","Close":"1248.43","Year":"2017","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-04-01 04:00","Open":"1249.66","High":"1295.38","Low":"1243.56","Close":"1267.76","Year":"2017","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-05-01 04:00","Open":"1267.30","High":"1274.01","Low":"1214.17","Close":"1268.59","Year":"2017","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-06-01 04:00","Open":"1268.08","High":"1295.97","Low":"1235.74","Close":"1241.25","Year":"2017","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-07-01 04:00","Open":"1241.39","High":"1271.01","Low":"1204.67","Close":"1269.24","Year":"2017","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-08-01 04:00","Open":"1268.62","High":"1325.85","Low":"1251.36","Close":"1321.17","Year":"2017","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-09-01 04:00","Open":"1321.33","High":"1357.41","Low":"1275.90","Close":"1278.59","Year":"2017","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-10-01 04:00","Open":"1278.41","High":"1305.85","Low":"1260.43","Close":"1270.62","Year":"2017","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-11-01 04:00","Open":"1270.49","High":"1299.06","Low":"1265.29","Close":"1274.62","Year":"2017","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2017-12-01 04:00","Open":"1274.79","High":"1307.41","Low":"1236.33","Close":"1302.42","Year":"2017","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-01-01 04:00","Open":"1309.57","High":"1365.89","Low":"1305.73","Close":"1344.82","Year":"2018","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-02-01 04:00","Open":"1344.70","High":"1361.61","Low":"1306.96","Close":"1317.85","Year":"2018","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-03-01 04:00","Open":"1318.08","High":"1356.74","Low":"1302.69","Close":"1324.94","Year":"2018","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-04-01 04:00","Open":"1325.60","High":"1365.14","Low":"1310.13","Close":"1315.10","Year":"2018","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-05-01 04:00","Open":"1314.70","High":"1325.82","Low":"1281.96","Close":"1298.03","Year":"2018","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-06-01 04:00","Open":"1298.72","High":"1309.19","Low":"1245.84","Close":"1252.50","Year":"2018","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-07-01 04:00","Open":"1251.90","High":"1265.82","Low":"1211.38","Close":"1223.49","Year":"2018","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-08-01 04:00","Open":"1223.46","High":"1224.71","Low":"1160.01","Close":"1200.87","Year":"2018","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-09-01 04:00","Open":"1200.64","High":"1212.54","Low":"1180.54","Close":"1191.88","Year":"2018","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-10-01 04:00","Open":"1192.19","High":"1243.36","Low":"1183.18","Close":"1214.26","Year":"2018","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-11-01 04:00","Open":"1214.62","High":"1237.37","Low":"1196.21","Close":"1222.11","Year":"2018","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2018-12-01 04:00","Open":"1221.89","High":"1284.02","Low":"1221.25","Close":"1281.24","Year":"2018","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-01-01 04:00","Open":"1285.81","High":"1326.25","Low":"1276.55","Close":"1320.97","Year":"2019","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-02-01 04:00","Open":"1321.08","High":"1346.66","Low":"1302.34","Close":"1312.77","Year":"2019","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-03-01 04:00","Open":"1313.67","High":"1324.43","Low":"1280.64","Close":"1291.84","Year":"2019","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-04-01 04:00","Open":"1292.36","High":"1310.53","Low":"1266.23","Close":"1283.37","Year":"2019","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-05-01 04:00","Open":"1283.29","High":"1306.92","Low":"1266.23","Close":"1305.40","Year":"2019","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-06-01 04:00","Open":"1307.44","High":"1439.18","Low":"1305.98","Close":"1409.38","Year":"2019","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-07-01 04:00","Open":"1398.59","High":"1452.92","Low":"1381.66","Close":"1412.54","Year":"2019","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-08-01 04:00","Open":"1413.47","High":"1555.15","Low":"1400.44","Close":"1519.71","Year":"2019","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-09-01 04:00","Open":"1526.28","High":"1556.97","Low":"1464.43","Close":"1472.41","Year":"2019","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-10-01 04:00","Open":"1471.49","High":"1519.54","Low":"1459.05","Close":"1512.49","Year":"2019","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-11-01 04:00","Open":"1512.45","High":"1515.86","Low":"1445.59","Close":"1462.93","Year":"2019","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2019-12-01 04:00","Open":"1464.11","High":"1525.22","Low":"1453.91","Close":"1521.91","Year":"2019","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-01-01 04:00","Open":"1520.60","High":"1611.35","Low":"1518.39","Close":"1588.19","Year":"2020","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-02-01 04:00","Open":"1593.17","High":"1689.23","Low":"1547.43","Close":"1585.85","Year":"2020","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-03-01 04:00","Open":"1591.45","High":"1703.41","Low":"1451.15","Close":"1575.57","Year":"2020","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-04-01 04:00","Open":"1568.34","High":"1747.11","Low":"1565.39","Close":"1685.62","Year":"2020","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-05-01 04:00","Open":"1684.62","High":"1765.15","Low":"1668.97","Close":"1728.75","Year":"2020","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-06-01 04:00","Open":"1733.58","High":"1785.92","Low":"1670.57","Close":"1780.43","Year":"2020","Quarter":"2","Month":"6","Week":"23"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-07-01 04:00","Open":"1781.98","High":"1983.17","Low":"1757.23","Close":"1973.99","Year":"2020","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-08-01 04:00","Open":"1978.79","High":"2074.90","Low":"1863.09","Close":"1967.25","Year":"2020","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-09-01 04:00","Open":"1967.17","High":"1992.45","Low":"1848.71","Close":"1885.33","Year":"2020","Quarter":"3","Month":"9","Week":"36"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-10-01 04:00","Open":"1885.43","High":"1933.19","Low":"1859.86","Close":"1878.61","Year":"2020","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-11-01 04:00","Open":"1876.57","High":"1965.46","Low":"1764.47","Close":"1776.67","Year":"2020","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2020-12-01 04:00","Open":"1777.11","High":"1906.66","Low":"1775.65","Close":"1895.34","Year":"2020","Quarter":"4","Month":"12","Week":"49"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-01-01 04:00","Open":"1904.13","High":"1959.37","Low":"1805.18","Close":"1848.40","Year":"2021","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-02-01 04:00","Open":"1862.98","High":"1871.59","Low":"1717.05","Close":"1734.15","Year":"2021","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-03-01 04:00","Open":"1733.69","High":"1759.87","Low":"1676.70","Close":"1707.30","Year":"2021","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-04-01 04:00","Open":"1707.48","High":"1797.80","Low":"1705.73","Close":"1769.08","Year":"2021","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-05-01 04:00","Open":"1767.94","High":"1912.68","Low":"1766.01","Close":"1906.37","Year":"2021","Quarter":"2","Month":"5","Week":"17"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-06-01 04:00","Open":"1906.57","High":"1916.49","Low":"1750.55","Close":"1770.38","Year":"2021","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-07-01 04:00","Open":"1769.69","High":"1834.18","Low":"1765.56","Close":"1813.77","Year":"2021","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-08-01 04:00","Open":"1813.99","High":"1831.55","Low":"1680.49","Close":"1813.65","Year":"2021","Quarter":"3","Month":"8","Week":"30"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-09-01 04:00","Open":"1813.73","High":"1833.98","Low":"1721.45","Close":"1756.98","Year":"2021","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-10-01 04:00","Open":"1756.25","High":"1813.88","Low":"1745.82","Close":"1782.92","Year":"2021","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-11-01 04:00","Open":"1783.03","High":"1877.09","Low":"1758.98","Close":"1774.81","Year":"2021","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2021-12-01 04:00","Open":"1775.11","High":"1827.50","Low":"1752.69","Close":"1825.19","Year":"2021","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-01-01 04:00","Open":"1829.73","High":"1853.78","Low":"1780.20","Close":"1797.21","Year":"2022","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-02-01 04:00","Open":"1797.47","High":"1974.31","Low":"1788.58","Close":"1908.54","Year":"2022","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-03-01 04:00","Open":"1906.90","High":"2070.46","Low":"1890.04","Close":"1937.05","Year":"2022","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-04-01 04:00","Open":"1937.19","High":"1998.36","Low":"1872.07","Close":"1896.33","Year":"2022","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-05-01 04:00","Open":"1896.83","High":"1909.73","Low":"1786.76","Close":"1837.37","Year":"2022","Quarter":"2","Month":"5","Week":"17"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-06-01 04:00","Open":"1837.26","High":"1878.78","Low":"1802.65","Close":"1807.03","Year":"2022","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-07-01 04:00","Open":"1807.58","High":"1814.08","Low":"1680.78","Close":"1765.78","Year":"2022","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-08-01 04:00","Open":"1765.02","High":"1807.89","Low":"1709.55","Close":"1710.98","Year":"2022","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-09-01 04:00","Open":"1711.07","High":"1735.09","Low":"1614.81","Close":"1660.89","Year":"2022","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-10-01 04:00","Open":"1660.31","High":"1729.52","Low":"1617.17","Close":"1633.56","Year":"2022","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-11-01 04:00","Open":"1633.07","High":"1786.45","Low":"1616.63","Close":"1768.51","Year":"2022","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2022-12-01 04:00","Open":"1768.13","High":"1833.31","Low":"1765.82","Close":"1823.66","Year":"2022","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-01-01 04:00","Open":"1826.74","High":"1949.14","Low":"1823.69","Close":"1928.12","Year":"2023","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-02-01 04:00","Open":"1928.26","High":"1959.76","Low":"1804.71","Close":"1826.72","Year":"2023","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-03-01 04:00","Open":"1826.80","High":"2009.76","Low":"1809.38","Close":"1969.24","Year":"2023","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-04-01 04:00","Open":"1970.10","High":"2048.74","Low":"1949.72","Close":"1989.33","Year":"2023","Quarter":"2","Month":"4","Week":"13"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-05-01 04:00","Open":"1991.30","High":"2079.19","Low":"1931.97","Close":"1962.53","Year":"2023","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-06-01 04:00","Open":"1962.24","High":"1983.42","Low":"1892.94","Close":"1919.30","Year":"2023","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-07-01 04:00","Open":"1918.87","High":"1987.42","Low":"1902.59","Close":"1965.43","Year":"2023","Quarter":"3","Month":"7","Week":"26"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-08-01 04:00","Open":"1965.45","High":"1965.93","Low":"1884.72","Close":"1940.05","Year":"2023","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-09-01 04:00","Open":"1939.30","High":"1952.87","Low":"1846.26","Close":"1848.67","Year":"2023","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-10-01 04:00","Open":"1847.73","High":"2009.40","Low":"1810.39","Close":"1983.91","Year":"2023","Quarter":"4","Month":"10","Week":"39"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-11-01 04:00","Open":"1983.73","High":"2051.91","Low":"1931.56","Close":"2035.98","Year":"2023","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2023-12-01 04:00","Open":"2036.56","High":"2144.63","Low":"1972.98","Close":"2062.79","Year":"2023","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-01-01 04:00","Open":"2062.81","High":"2078.90","Low":"2001.78","Close":"2039.10","Year":"2024","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-02-01 04:00","Open":"2039.43","High":"2065.35","Low":"1984.18","Close":"2044.03","Year":"2024","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-03-01 04:00","Open":"2043.45","High":"2236.15","Low":"2039.01","Close":"2232.74","Year":"2024","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-04-01 04:00","Open":"2240.54","High":"2431.48","Low":"2228.45","Close":"2286.04","Year":"2024","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-05-01 04:00","Open":"2286.12","High":"2450.00","Low":"2277.26","Close":"2327.07","Year":"2024","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-06-01 04:00","Open":"2328.26","High":"2387.67","Low":"2286.68","Close":"2326.46","Year":"2024","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-07-01 04:00","Open":"2326.29","High":"2483.61","Low":"2318.43","Close":"2447.14","Year":"2024","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-08-01 04:00","Open":"2448.08","High":"2531.66","Low":"2364.23","Close":"2503.21","Year":"2024","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-09-01 04:00","Open":"2502.42","High":"2685.51","Low":"2471.85","Close":"2634.45","Year":"2024","Quarter":"3","Month":"9","Week":"35"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-10-01 04:00","Open":"2634.02","High":"2790.01","Low":"2602.34","Close":"2743.82","Year":"2024","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-11-01 04:00","Open":"2744.12","High":"2762.21","Low":"2536.77","Close":"2649.21","Year":"2024","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2024-12-01 04:00","Open":"2652.19","High":"2726.03","Low":"2582.13","Close":"2623.34","Year":"2024","Quarter":"4","Month":"12","Week":"48"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-01-01 04:00","Open":"2634.08","High":"2817.17","Low":"2614.68","Close":"2798.63","Year":"2025","Quarter":"1","Month":"1","Week":"1"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-02-01 04:00","Open":"2803.67","High":"2956.20","Low":"2772.09","Close":"2857.86","Year":"2025","Quarter":"1","Month":"2","Week":"5"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-03-01 04:00","Open":"2855.45","High":"3127.78","Low":"2855.02","Close":"3123.76","Year":"2025","Quarter":"1","Month":"3","Week":"9"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-04-01 04:00","Open":"3122.70","High":"3499.99","Low":"2956.20","Close":"3288.42","Year":"2025","Quarter":"2","Month":"4","Week":"14"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-05-01 04:00","Open":"3286.77","High":"3437.81","Low":"3120.69","Close":"3289.57","Year":"2025","Quarter":"2","Month":"5","Week":"18"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-06-01 04:00","Open":"3299.16","High":"3451.45","Low":"3246.79","Close":"3302.99","Year":"2025","Quarter":"2","Month":"6","Week":"22"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-07-01 04:00","Open":"3303.06","High":"3438.97","Low":"3268.01","Close":"3290.02","Year":"2025","Quarter":"3","Month":"7","Week":"27"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-08-01 04:00","Open":"3290.34","High":"3453.93","Low":"3281.61","Close":"3448.52","Year":"2025","Quarter":"3","Month":"8","Week":"31"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-09-01 04:00","Open":"3448.06","High":"3871.74","Low":"3436.80","Close":"3858.37","Year":"2025","Quarter":"3","Month":"9","Week":"36"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-10-01 04:00","Open":"3859.58","High":"4381.46","Low":"3819.31","Close":"4001.62","Year":"2025","Quarter":"4","Month":"10","Week":"40"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-11-01 04:00","Open":"3983.55","High":"4245.16","Low":"3928.75","Close":"4220.10","Year":"2025","Quarter":"4","Month":"11","Week":"44"},
+  {"Asset":"GOLD","TimeFrame":"MN","Time":"2025-12-01 04:00","Open":"4222.11","High":"4550.06","Low":"4163.92","Close":"4532.45","Year":"2025","Quarter":"4","Month":"12","Week":"49"}
 ]
