@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "EURUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "1.17622",
+    "High": "1.17858",
+    "Low": "1.17591",
+    "Close": "1.17837",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "EURUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "1.17837",
+    "High": "1.17848",
+    "Low": "1.17534",
+    "Close": "1.17556",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "EURUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "1.17558",
+    "High": "1.17886",
+    "Low": "1.17539",
+    "Close": "1.17759",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "EURUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "1.17758",
+    "High": "1.17797",
+    "Low": "1.17552",
+    "Close": "1.17693",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "EURUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "1.17688",
+    "High": "1.17883",
+    "Low": "1.17667",
+    "Close": "1.17858",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]

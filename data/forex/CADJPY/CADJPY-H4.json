@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "CADJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "114.414",
+    "High": "114.539",
+    "Low": "114.155",
+    "Close": "114.429",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "CADJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "114.437",
+    "High": "114.545",
+    "Low": "114.309",
+    "Close": "114.328",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "CADJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "114.333",
+    "High": "114.346",
+    "Low": "114.024",
+    "Close": "114.234",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "CADJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "114.235",
+    "High": "114.273",
+    "Low": "114.119",
+    "Close": "114.164",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "CADJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "114.165",
+    "High": "114.268",
+    "Low": "114.019",
+    "Close": "114.190",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]

@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "GOLD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "4539.73",
+    "High": "4549.69",
+    "Low": "4472.18",
+    "Close": "4497.21",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "GOLD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "4497.19",
+    "High": "4520.35",
+    "Low": "4496.33",
+    "Close": "4506.65",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "GOLD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "4506.45",
+    "High": "4510.57",
+    "Low": "4444.91",
+    "Close": "4472.02",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "GOLD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "4472.01",
+    "High": "4474.48",
+    "Low": "4407.16",
+    "Close": "4421.75",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "GOLD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "4421.10",
+    "High": "4421.18",
+    "Low": "4347.06",
+    "Close": "4349.96",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]

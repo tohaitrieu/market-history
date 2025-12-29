@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "USDCHF",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "0.78785",
+    "High": "0.78939",
+    "Low": "0.78758",
+    "Close": "0.78855",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCHF",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "0.78855",
+    "High": "0.79003",
+    "Low": "0.78849",
+    "Close": "0.78991",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCHF",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "0.78989",
+    "High": "0.78996",
+    "Low": "0.78727",
+    "Close": "0.78842",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCHF",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "0.78843",
+    "High": "0.79153",
+    "Low": "0.78825",
+    "Close": "0.78996",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCHF",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "0.78995",
+    "High": "0.79022",
+    "Low": "0.78814",
+    "Close": "0.78819",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]

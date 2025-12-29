@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "GBPJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "211.190",
+    "High": "211.251",
+    "Low": "210.697",
+    "Close": "211.152",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "GBPJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "211.166",
+    "High": "211.337",
+    "Low": "210.803",
+    "Close": "210.866",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "GBPJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "210.867",
+    "High": "210.918",
+    "Low": "210.429",
+    "Close": "210.881",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "GBPJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "210.879",
+    "High": "211.169",
+    "Low": "210.598",
+    "Close": "210.801",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "GBPJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "210.802",
+    "High": "210.871",
+    "Low": "210.569",
+    "Close": "210.852",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]

@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "AUDUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "0.66951",
+    "High": "0.67217",
+    "Low": "0.66951",
+    "Close": "0.67184",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "AUDUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "0.67183",
+    "High": "0.67267",
+    "Low": "0.67143",
+    "Close": "0.67148",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "AUDUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "0.67147",
+    "High": "0.67211",
+    "Low": "0.66925",
+    "Close": "0.66988",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "AUDUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "0.66988",
+    "High": "0.67051",
+    "Low": "0.66823",
+    "Close": "0.66929",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "AUDUSD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "0.66928",
+    "High": "0.67025",
+    "Low": "0.66859",
+    "Close": "0.66925",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]

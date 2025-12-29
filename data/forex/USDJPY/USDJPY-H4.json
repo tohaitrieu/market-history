@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "USDJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "156.447",
+    "High": "156.536",
+    "Low": "156.051",
+    "Close": "156.306",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "156.307",
+    "High": "156.507",
+    "Low": "156.236",
+    "Close": "156.300",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "156.306",
+    "High": "156.396",
+    "Low": "156.046",
+    "Close": "156.322",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "156.323",
+    "High": "156.417",
+    "Low": "156.189",
+    "Close": "156.225",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "156.225",
+    "High": "156.234",
+    "Low": "156.006",
+    "Close": "156.162",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]

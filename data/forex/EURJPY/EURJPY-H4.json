@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "184.192",
+    "High": "184.343",
+    "Low": "183.802",
+    "Close": "184.245",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "184.246",
+    "High": "184.408",
+    "Low": "183.764",
+    "Close": "183.802",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "183.810",
+    "High": "184.247",
+    "Low": "183.727",
+    "Close": "184.141",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "184.140",
+    "High": "184.177",
+    "Low": "183.852",
+    "Close": "183.929",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "183.928",
+    "High": "184.123",
+    "Low": "183.788",
+    "Close": "184.106",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]

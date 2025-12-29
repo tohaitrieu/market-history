@@ -165046,5 +165046,70 @@
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 04:00",
+    "Open": "1.36606",
+    "High": "1.36728",
+    "Low": "1.36566",
+    "Close": "1.36613",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 08:00",
+    "Open": "1.36612",
+    "High": "1.36730",
+    "Low": "1.36565",
+    "Close": "1.36728",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 12:00",
+    "Open": "1.36728",
+    "High": "1.36958",
+    "Low": "1.36704",
+    "Close": "1.36865",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 16:00",
+    "Open": "1.36866",
+    "High": "1.37003",
+    "Low": "1.36793",
+    "Close": "1.36863",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "H4",
+    "Time": "2025-12-29 20:00",
+    "Open": "1.36863",
+    "High": "1.36964",
+    "Low": "1.36622",
+    "Close": "1.36775",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
+    "Week": "1"
   }
 ]
