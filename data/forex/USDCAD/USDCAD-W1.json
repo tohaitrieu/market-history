@@ -22169,12 +22169,51 @@
     "TimeFrame": "W1",
     "Time": "2025-12-28 04:00",
     "Open": "1.36606",
-    "High": "1.37003",
+    "High": "1.37467",
     "Low": "1.36565",
-    "Close": "1.36775",
+    "Close": "1.37301",
     "Year": "2025",
     "Quarter": "4",
     "Month": "12",
     "Week": "52"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "W1",
+    "Time": "2026-01-04 04:00",
+    "Open": "1.37293",
+    "High": "1.39188",
+    "Low": "1.37293",
+    "Close": "1.39136",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "1"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "W1",
+    "Time": "2026-01-11 04:00",
+    "Open": "1.39078",
+    "High": "1.39278",
+    "Low": "1.38538",
+    "Close": "1.39154",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "2"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "W1",
+    "Time": "2026-01-18 04:00",
+    "Open": "1.39059",
+    "High": "1.39162",
+    "Low": "1.36925",
+    "Close": "1.36981",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "3"
   }
 ]
