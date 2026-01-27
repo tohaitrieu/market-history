@@ -12647,5 +12647,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "3"
+  },
+  {
+    "Asset": "AUDUSD",
+    "TimeFrame": "W1",
+    "Time": "2026-01-25 04:00",
+    "Open": "0.69209",
+    "High": "0.69402",
+    "Low": "0.69052",
+    "Close": "0.69169",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "4"
   }
 ]

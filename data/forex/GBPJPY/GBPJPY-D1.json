@@ -112630,5 +112630,31 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "GBPJPY",
+    "TimeFrame": "D1",
+    "Time": "2026-01-26 04:00",
+    "Open": "211.253",
+    "High": "212.066",
+    "Low": "209.604",
+    "Close": "210.810",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
+  },
+  {
+    "Asset": "GBPJPY",
+    "TimeFrame": "D1",
+    "Time": "2026-01-27 04:00",
+    "Open": "210.802",
+    "High": "211.185",
+    "Low": "210.643",
+    "Close": "211.118",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
   }
 ]

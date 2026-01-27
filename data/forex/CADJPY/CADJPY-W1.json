@@ -12855,5 +12855,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "3"
+  },
+  {
+    "Asset": "CADJPY",
+    "TimeFrame": "W1",
+    "Time": "2026-01-25 04:00",
+    "Open": "112.858",
+    "High": "113.370",
+    "Low": "112.041",
+    "Close": "112.499",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "4"
   }
 ]

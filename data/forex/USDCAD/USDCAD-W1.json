@@ -22215,5 +22215,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "3"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "W1",
+    "Time": "2026-01-25 04:00",
+    "Open": "1.36942",
+    "High": "1.37193",
+    "Low": "1.36706",
+    "Close": "1.37175",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "4"
   }
 ]

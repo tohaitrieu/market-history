@@ -21968,5 +21968,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "3"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "W1",
+    "Time": "2026-01-25 04:00",
+    "Open": "183.469",
+    "High": "184.092",
+    "Low": "181.777",
+    "Close": "183.319",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "4"
   }
 ]

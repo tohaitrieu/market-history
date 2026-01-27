@@ -165293,5 +165293,31 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "USDJPY",
+    "TimeFrame": "D1",
+    "Time": "2026-01-26 04:00",
+    "Open": "154.639",
+    "High": "155.339",
+    "Low": "153.299",
+    "Close": "154.135",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
+  },
+  {
+    "Asset": "USDJPY",
+    "TimeFrame": "D1",
+    "Time": "2026-01-27 04:00",
+    "Open": "154.135",
+    "High": "154.444",
+    "Low": "154.050",
+    "Close": "154.342",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
   }
 ]

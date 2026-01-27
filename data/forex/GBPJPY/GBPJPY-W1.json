@@ -22228,5 +22228,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "3"
+  },
+  {
+    "Asset": "GBPJPY",
+    "TimeFrame": "W1",
+    "Time": "2026-01-25 04:00",
+    "Open": "211.253",
+    "High": "212.066",
+    "Low": "209.604",
+    "Close": "211.118",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "4"
   }
 ]

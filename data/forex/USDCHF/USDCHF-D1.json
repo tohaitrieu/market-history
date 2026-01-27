@@ -165293,5 +165293,31 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "USDCHF",
+    "TimeFrame": "D1",
+    "Time": "2026-01-26 04:00",
+    "Open": "0.77432",
+    "High": "0.77932",
+    "Low": "0.77302",
+    "Close": "0.77647",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
+  },
+  {
+    "Asset": "USDCHF",
+    "TimeFrame": "D1",
+    "Time": "2026-01-27 04:00",
+    "Open": "0.77534",
+    "High": "0.77751",
+    "Low": "0.77526",
+    "Close": "0.77704",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
   }
 ]

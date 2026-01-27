@@ -165293,5 +165293,31 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "EURUSD",
+    "TimeFrame": "D1",
+    "Time": "2026-01-26 04:00",
+    "Open": "1.18630",
+    "High": "1.19065",
+    "Low": "1.18344",
+    "Close": "1.18797",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
+  },
+  {
+    "Asset": "EURUSD",
+    "TimeFrame": "D1",
+    "Time": "2026-01-27 04:00",
+    "Open": "1.18793",
+    "High": "1.18820",
+    "Low": "1.18689",
+    "Close": "1.18772",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
   }
 ]

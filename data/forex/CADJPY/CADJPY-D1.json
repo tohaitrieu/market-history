@@ -65908,5 +65908,31 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "CADJPY",
+    "TimeFrame": "D1",
+    "Time": "2026-01-26 04:00",
+    "Open": "112.858",
+    "High": "113.370",
+    "Low": "112.041",
+    "Close": "112.420",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
+  },
+  {
+    "Asset": "CADJPY",
+    "TimeFrame": "D1",
+    "Time": "2026-01-27 04:00",
+    "Open": "112.417",
+    "High": "112.598",
+    "Low": "112.334",
+    "Close": "112.499",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
   }
 ]

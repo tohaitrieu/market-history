@@ -83328,5 +83328,31 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "GOLD",
+    "TimeFrame": "D1",
+    "Time": "2026-01-26 04:00",
+    "Open": "5009.79",
+    "High": "5111.22",
+    "Low": "4989.90",
+    "Close": "5008.21",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
+  },
+  {
+    "Asset": "GOLD",
+    "TimeFrame": "D1",
+    "Time": "2026-01-27 04:00",
+    "Open": "5013.37",
+    "High": "5075.78",
+    "Low": "5012.92",
+    "Close": "5056.18",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
   }
 ]

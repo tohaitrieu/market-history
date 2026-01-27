@@ -112513,5 +112513,31 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "GBPUSD",
+    "TimeFrame": "D1",
+    "Time": "2026-01-26 04:00",
+    "Open": "1.36596",
+    "High": "1.37125",
+    "Low": "1.36424",
+    "Close": "1.36762",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
+  },
+  {
+    "Asset": "GBPUSD",
+    "TimeFrame": "D1",
+    "Time": "2026-01-27 04:00",
+    "Open": "1.36762",
+    "High": "1.36820",
+    "Low": "1.36671",
+    "Close": "1.36784",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
   }
 ]

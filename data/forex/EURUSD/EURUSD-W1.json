@@ -37334,5 +37334,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "3"
+  },
+  {
+    "Asset": "EURUSD",
+    "TimeFrame": "W1",
+    "Time": "2026-01-25 04:00",
+    "Open": "1.18630",
+    "High": "1.19065",
+    "Low": "1.18344",
+    "Close": "1.18772",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "4"
   }
 ]

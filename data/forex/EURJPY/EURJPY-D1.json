@@ -110966,5 +110966,31 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "D1",
+    "Time": "2026-01-26 04:00",
+    "Open": "183.469",
+    "High": "184.092",
+    "Low": "181.777",
+    "Close": "183.115",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "D1",
+    "Time": "2026-01-27 04:00",
+    "Open": "183.106",
+    "High": "183.374",
+    "Low": "182.964",
+    "Close": "183.319",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "1",
+    "Week": "5"
   }
 ]
