@@ -166879,5 +166879,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "5"
+  },
+  {
+    "Asset": "USDJPY",
+    "TimeFrame": "H4",
+    "Time": "2026-02-02 04:00",
+    "Open": "154.793",
+    "High": "155.505",
+    "Low": "154.775",
+    "Close": "155.247",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "2",
+    "Week": "6"
   }
 ]

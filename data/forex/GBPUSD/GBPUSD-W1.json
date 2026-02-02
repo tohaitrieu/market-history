@@ -22202,5 +22202,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "4"
+  },
+  {
+    "Asset": "GBPUSD",
+    "TimeFrame": "W1",
+    "Time": "2026-02-01 04:00",
+    "Open": "1.36843",
+    "High": "1.37051",
+    "Low": "1.36614",
+    "Close": "1.36964",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "2",
+    "Week": "5"
   }
 ]

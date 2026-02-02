@@ -112890,5 +112890,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "5"
+  },
+  {
+    "Asset": "USDCAD",
+    "TimeFrame": "D1",
+    "Time": "2026-02-02 04:00",
+    "Open": "1.36060",
+    "High": "1.36565",
+    "Low": "1.36028",
+    "Close": "1.36229",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "2",
+    "Week": "6"
   }
 ]

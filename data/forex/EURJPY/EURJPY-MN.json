@@ -5081,5 +5081,18 @@
     "Quarter": "1",
     "Month": "1",
     "Week": "1"
+  },
+  {
+    "Asset": "EURJPY",
+    "TimeFrame": "MN",
+    "Time": "2026-02-01 04:00",
+    "Open": "183.521",
+    "High": "184.269",
+    "Low": "183.471",
+    "Close": "184.239",
+    "Year": "2026",
+    "Quarter": "1",
+    "Month": "2",
+    "Week": "5"
   }
 ]
