@@ -2940,40 +2940,40 @@
   {
     "Asset": "CADJPY",
     "TimeFrame": "MN",
-    "Time": "2025-12-01 04:00",
+    "Time": "2025-11-30 21:00",
     "Open": "111.591",
     "High": "114.626",
     "Low": "110.587",
     "Close": "114.300",
     "Year": "2025",
     "Quarter": "4",
-    "Month": "12",
-    "Week": "49"
+    "Month": "11",
+    "Week": "48"
   },
   {
     "Asset": "CADJPY",
     "TimeFrame": "MN",
-    "Time": "2026-01-01 04:00",
+    "Time": "2025-12-31 21:00",
     "Open": "114.384",
     "High": "115.416",
     "Low": "111.720",
     "Close": "113.603",
-    "Year": "2026",
-    "Quarter": "1",
-    "Month": "1",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
     "Week": "1"
   },
   {
     "Asset": "CADJPY",
     "TimeFrame": "MN",
-    "Time": "2026-02-01 04:00",
+    "Time": "2026-01-31 21:00",
     "Open": "113.770",
-    "High": "114.117",
+    "High": "115.178",
     "Low": "113.095",
-    "Close": "113.992",
+    "Close": "114.947",
     "Year": "2026",
     "Quarter": "1",
-    "Month": "2",
+    "Month": "1",
     "Week": "5"
   }
 ]

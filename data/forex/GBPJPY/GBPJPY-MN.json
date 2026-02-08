@@ -5098,40 +5098,40 @@
   {
     "Asset": "GBPJPY",
     "TimeFrame": "MN",
-    "Time": "2025-12-01 04:00",
+    "Time": "2025-11-30 21:00",
     "Open": "206.305",
     "High": "211.582",
     "Low": "205.191",
     "Close": "210.952",
     "Year": "2025",
     "Quarter": "4",
-    "Month": "12",
-    "Week": "49"
+    "Month": "11",
+    "Week": "48"
   },
   {
     "Asset": "GBPJPY",
     "TimeFrame": "MN",
-    "Time": "2026-01-01 04:00",
+    "Time": "2025-12-31 21:00",
     "Open": "211.367",
     "High": "214.842",
     "Low": "209.604",
     "Close": "211.750",
-    "Year": "2026",
-    "Quarter": "1",
-    "Month": "1",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
     "Week": "1"
   },
   {
     "Asset": "GBPJPY",
     "TimeFrame": "MN",
-    "Time": "2026-02-01 04:00",
+    "Time": "2026-01-31 21:00",
     "Open": "211.916",
-    "High": "213.125",
+    "High": "214.998",
     "Low": "211.275",
-    "Close": "212.867",
+    "Close": "213.942",
     "Year": "2026",
     "Quarter": "1",
-    "Month": "2",
+    "Month": "1",
     "Week": "5"
   }
 ]

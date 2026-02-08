@@ -5085,40 +5085,40 @@
   {
     "Asset": "GBPUSD",
     "TimeFrame": "MN",
-    "Time": "2025-12-01 04:00",
+    "Time": "2025-11-30 21:00",
     "Open": "1.32164",
     "High": "1.35337",
     "Low": "1.31790",
     "Close": "1.34513",
     "Year": "2025",
     "Quarter": "4",
-    "Month": "12",
-    "Week": "49"
+    "Month": "11",
+    "Week": "48"
   },
   {
     "Asset": "GBPUSD",
     "TimeFrame": "MN",
-    "Time": "2026-01-01 04:00",
+    "Time": "2025-12-31 21:00",
     "Open": "1.34705",
     "High": "1.38683",
     "Low": "1.33403",
     "Close": "1.36817",
-    "Year": "2026",
-    "Quarter": "1",
-    "Month": "1",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
     "Week": "1"
   },
   {
     "Asset": "GBPUSD",
     "TimeFrame": "MN",
-    "Time": "2026-02-01 04:00",
+    "Time": "2026-01-31 21:00",
     "Open": "1.36843",
-    "High": "1.37147",
-    "Low": "1.36226",
-    "Close": "1.36522",
+    "High": "1.37326",
+    "Low": "1.35078",
+    "Close": "1.36087",
     "Year": "2026",
     "Quarter": "1",
-    "Month": "2",
+    "Month": "1",
     "Week": "5"
   }
 ]

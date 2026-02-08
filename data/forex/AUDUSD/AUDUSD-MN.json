@@ -2888,40 +2888,40 @@
   {
     "Asset": "AUDUSD",
     "TimeFrame": "MN",
-    "Time": "2025-12-01 04:00",
+    "Time": "2025-11-30 21:00",
     "Open": "0.65381",
     "High": "0.67267",
     "Low": "0.65347",
     "Close": "0.66711",
     "Year": "2025",
     "Quarter": "4",
-    "Month": "12",
-    "Week": "49"
+    "Month": "11",
+    "Week": "48"
   },
   {
     "Asset": "AUDUSD",
     "TimeFrame": "MN",
-    "Time": "2026-01-01 04:00",
+    "Time": "2025-12-31 21:00",
     "Open": "0.66948",
     "High": "0.70935",
     "Low": "0.66622",
     "Close": "0.69631",
-    "Year": "2026",
-    "Quarter": "1",
-    "Month": "1",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
     "Week": "1"
   },
   {
     "Asset": "AUDUSD",
     "TimeFrame": "MN",
-    "Time": "2026-02-01 04:00",
+    "Time": "2026-01-31 21:00",
     "Open": "0.69455",
     "High": "0.70496",
-    "Low": "0.69077",
-    "Close": "0.69999",
+    "Low": "0.68963",
+    "Close": "0.70146",
     "Year": "2026",
     "Quarter": "1",
-    "Month": "2",
+    "Month": "1",
     "Week": "5"
   }
 ]

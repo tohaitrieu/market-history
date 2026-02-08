@@ -5098,40 +5098,40 @@
   {
     "Asset": "USDCAD",
     "TimeFrame": "MN",
-    "Time": "2025-12-01 04:00",
+    "Time": "2025-11-30 21:00",
     "Open": "1.39722",
     "High": "1.40135",
     "Low": "1.36415",
     "Close": "1.37196",
     "Year": "2025",
     "Quarter": "4",
-    "Month": "12",
-    "Week": "49"
+    "Month": "11",
+    "Week": "48"
   },
   {
     "Asset": "USDCAD",
     "TimeFrame": "MN",
-    "Time": "2026-01-01 04:00",
+    "Time": "2025-12-31 21:00",
     "Open": "1.37155",
     "High": "1.39278",
     "Low": "1.34804",
     "Close": "1.36172",
-    "Year": "2026",
-    "Quarter": "1",
-    "Month": "1",
+    "Year": "2025",
+    "Quarter": "4",
+    "Month": "12",
     "Week": "1"
   },
   {
     "Asset": "USDCAD",
     "TimeFrame": "MN",
-    "Time": "2026-02-01 04:00",
+    "Time": "2026-01-31 21:00",
     "Open": "1.36060",
-    "High": "1.37015",
+    "High": "1.37234",
     "Low": "1.36028",
-    "Close": "1.36760",
+    "Close": "1.36707",
     "Year": "2026",
     "Quarter": "1",
-    "Month": "2",
+    "Month": "1",
     "Week": "5"
   }
 ]
